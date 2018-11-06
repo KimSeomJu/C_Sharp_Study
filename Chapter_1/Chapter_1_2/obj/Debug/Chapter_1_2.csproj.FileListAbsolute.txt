@@ -1,0 +1,7 @@
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\bin\Debug\Chapter_1_2.exe.config
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\bin\Debug\Chapter_1_2.exe
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\bin\Debug\Chapter_1_2.pdb
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\obj\Debug\Chapter_1_2.csprojAssemblyReference.cache
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\obj\Debug\Chapter_1_2.csproj.CoreCompileInputs.cache
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\obj\Debug\Chapter_1_2.exe
+D:\Study\C_Sharp_Study\Chapter_1\Chapter_1_2\obj\Debug\Chapter_1_2.pdb
